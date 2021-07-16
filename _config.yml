@@ -7,12 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: 깃허브를 시작해보자!
-description: 으샤으샤 깃허브 블로그 시작하기
+description: 으샤으샤 깃허브 블로그 시작하기(설명)
 github_username: seoh0711
 
 # Email and twitter are optional:
 email: goto.seoh@gmail.com
-twitter_username:
+twitter_username: @seo_h85
 
 # Set this to true to get LaTeX math equation support
 use_math:
